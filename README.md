@@ -11,15 +11,15 @@ In this project, I will be cleaning and preparing raw data (data preprocessing),
 - Strengthen Excel skills in data preprocessing, reporting, and analysis.
 
 ## Project Workflow
-1. Data Preprocessing
+1. Task 1: Data Preprocessing
    Clean and prepare raw datasets (remove duplicates, handle missing values, standardize formats).  
-2. Primary Report Table Structure
+2. Task 2: Primary Report Table Structure
    Build pivot tables with fields for brands, package types, SKUs, and time periods.  
-3. Fill in the Report
+3. Task 3: Fill in the Report
    Populate pivot tables, add calculated fields, and format for readability.  
-4. Insert Slicers
+4. Task 4: Insert Slicers
    Add slicers to filter by brand, package type, size, SKU, or time period.  
-5. Interpretation
+5. Task 5: Interpretation
    Analyze results, identify trends, and highlight insights for management.
     
 ##  Skills Practiced
