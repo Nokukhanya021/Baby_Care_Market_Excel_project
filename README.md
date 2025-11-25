@@ -1,7 +1,7 @@
 # Baby_Care_Market_Excel_project
- The Baby Care Market Excel project is about analyzing real-world FMCG (Fast-Moving Consumer Goods) data to understand how different products perform over time. 
+The Baby Care Market Excel project is about analyzing real-world FMCG (Fast-Moving Consumer Goods) data to understand how different products perform over time. 
 The project focuses on building a structured, interactive Excel report that gives management a 360-degree view of business performance. By examining brands, package types, package sizes, and stock keeping units (SKUs), the report helps track industry trends and uncover detailed insights at lower breakdown levels.
-In this project, you will be cleaning and preparing raw data (data preprocessing), creating pivot tables to summarize performance, and adding slicers to make the report interactive. You’ll design a flexible dashboard that allows managers to filter, drill down, and compare results across multiple dimensions.
+In this project, I will be cleaning and preparing raw data (data preprocessing), creating pivot tables to summarize performance, and adding slicers to make the report interactive.I will design a flexible dashboard that allows managers to filter, drill down, and compare results across multiple dimensions.
 
 ##  Objectives
 - Transform raw FMCG data into a clean, structured dataset and ready for analysis
