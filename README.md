@@ -32,7 +32,7 @@ In this project, you will be cleaning and preparing raw data (data preprocessing
 - Gain hands-on experience with real-world FMCG data.  
 - Master pivot tables and slicers for interactive reporting.  
 - Provide management with both high-level summaries and detailed breakdowns.  
-- Strengthen my ability to track performance and monitor industry trends.  
+- Strengthen  ability to track performance and monitor industry trends.  
 - Develop practical skills for careers in business analysis, data-driven decision-making, and FMCG management.  
 
 
